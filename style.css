@@ -1,0 +1,19 @@
+body {
+    background-image: url("assets/background.png");
+    background-repeat:no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+    font-size: 50px;
+}
+
+h3 {
+    text-align:;
+    position: absolute;
+    left: 450px;
+    margin: -55px;
+}
